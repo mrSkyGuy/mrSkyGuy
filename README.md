@@ -5,8 +5,5 @@
 </h1>
 
 <h3 align="center">
-    Student 21yo, developer from Russia
+    Let's dive into dev-world, bratha
 </h3>  
-
-### **My skills**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&pause=1500&color=8C43EA&height=30&lines=JavaScript/TypeScript:+React.js,+Next.js;HTML+(PUG),+CSS+(SCSS);Python:+FastAPI,+Flask,+Aiogram,+Telethon;SQL:+PostgreSQL,+SQLite)](https://git.io/typing-svg)
