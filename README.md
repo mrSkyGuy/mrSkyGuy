@@ -5,5 +5,5 @@
 </h1>
 
 <h3 align="center">
-    Let's dive into dev-world, bratha
+    Let's dive into the dev world, bratha
 </h3>  
